@@ -58,6 +58,7 @@ Attach the program
 ```
 # Output Waveform
 
+![PSK OP](https://github.com/user-attachments/assets/02ac522e-0637-43fa-9330-7ccd3128ec69)
 
 
 # Hardware experiment wave form:
